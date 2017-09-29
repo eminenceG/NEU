@@ -1,3 +1,10 @@
+
+/*
+ * assignment-6.c
+ *
+ * CS 5001 Fall 2017 Silicon Valley
+ * Assignment 6: Point Circle Rectangle Structures
+ */
 #include <stdlib.h>
 #include <stdio.h>
 #include <stdbool.h>
