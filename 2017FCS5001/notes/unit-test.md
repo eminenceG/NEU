@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Cunit Notes"
+date: 2017-10-06
+---
+
 ## Unit Testing
 - Separating code into separate modules by functionality simplifies creating separate unit test modules for them.
 - Using unit test framework automates unit tests for a number of modules and reporting results.
