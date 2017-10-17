@@ -1,10 +1,16 @@
 ## C Memory Management
 When a C program is loaded, it is organized into areas of memory, called segments:
 - Program Code
+	- Compiled code for the program
 - Constants
+	- Literal strings
+	- Other fixed constants
 - Global and static variables
+	- Variables declared globally or statically
 - Dynamic memory (heap)
-- Local vatiables (stack)
+	- A pool of memory programmers can allocate
+- Local variables (stack)
+	- Local variables in functions
 
 
 	Publisher* getPublisherByName(const char* name, Publisher* pub)
