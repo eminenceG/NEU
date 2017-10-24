@@ -58,7 +58,7 @@ void displayBoard(char board[3][3]) {
 * check if any player has won the game
 * @param board the board
 * @param marker marker indicating one plaer
-* @return whether the player has won
+* @return whether the player has wonr
 */
 bool hasWon(const char board[3][3], char marker) {
 	// your code here
